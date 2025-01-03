@@ -1,3 +1,7 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=SILENT-SOBX-MD" alt="Typing SVG" /></a>
+  </p>
+
+
 ---------
 
 ### <br>  ❖ SILENT-SOBX-MD ❖
@@ -9,7 +13,7 @@
 
 -------
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=`SILENT-SOBX-MD-V2-WHATSAPP-BOT`" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰SILENT-SOBX-MD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
  
 ------------
 
@@ -24,14 +28,18 @@ src="https://cardivo.vercel.app/api?name=SILENT-SOBX-MD-V2&description=🥂❤�
 
 --------
 
-<p align="center">
-<a href="https://github.com/SILENTLOVER40/"><img title="Followers" src="https://img.shields.io/github/followers/SILENTLOVER40?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SILENTLOVER40/SILENT-SOBX-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
-<p align='center'>
+  <p align="center">
+   <!-- Repo Views -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER40%2FSILENT-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
+ <a href="https://github.com/SILENTLOVER40?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/SILENTLOVER40?label=Followers&style=social"></a>
+<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?&style=social"></a>
+<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD?style=social"></a>
+<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SILENTLOVER40/SILENT-SOBX-MD?label=Watching&style=social"></a>
+<!-- Repo Size -->
+  <img src="https://img.shields.io/github/repo-size/SILENTLOVER40/SILENT-SOBX-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <!-- Developer -->
+  <img src="https://img.shields.io/static/v1?label=OWNER&message=SILENT%20LOVER&color=pink&style=plastic" alt="Developer Badge">
 </p>
 
 -----------
@@ -276,8 +284,11 @@ jobs:
 
 -------------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=SILENT-SOBX-MD;+THE+WORLD+BEST+WHATSAPP+BOT;+CREATED+BY+SILENTLOVER+432🖤;KEEP+USING+SILENT-SOBX-MD" alt="Typing SVG" /></a>
+  </p>
+ 
+
 
 -----------
 
